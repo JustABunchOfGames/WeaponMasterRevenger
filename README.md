@@ -1,4 +1,4 @@
-# SpellcasterSurvivor
+# WeaponMasterRevenger
 Second prototype made for recruiters
 
 Made in less than 90h
